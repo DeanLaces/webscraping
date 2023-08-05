@@ -1,7 +1,7 @@
 # Note to User
 ## Personal Information(Password/URL Path)
 The password and url path for the chromedriver are machine specific. My machine is running on Linux Mint so its default path is downloaded to usr/local/bin/chromedriver.
-For obvious reasons, I decided to NULL my values(I value my privacy lol).
+For obvious reasons, I decided to NULL my password/username/email values(I value my privacy lol).
 
 ## Common Errors
 
